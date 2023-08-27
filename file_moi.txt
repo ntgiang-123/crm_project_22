@@ -2,3 +2,5 @@ Hello Máy A đẩy nội dung mới
 Đã update nội dung
 
 máy A đẩy soruce
+
+Máy B thêm nội dung cho file mới
