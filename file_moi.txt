@@ -6,4 +6,4 @@ máy A đẩy soruce
 
 Máy B thêm nội dung cho file mới
 Máy A thêm nội dung cho task mới
-
+Noi dung may A cap nhat moi
